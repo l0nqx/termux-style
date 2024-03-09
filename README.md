@@ -30,6 +30,8 @@ prompt_context(){ prompt_segment black default your-text }
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img5.png"</p>
 
+Save file with " ctrl + x + y "
+
 ```
 mkdir -p ~/.termux
 ```
@@ -52,7 +54,7 @@ cd termux-style
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img6.png"</p>
 
-• **Second,**
+• Second, type this..
 
 ```
 termux-style
