@@ -50,10 +50,16 @@ cd termux-style
 ./install
 ```
 
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img6.png"</p>
+
 • **Second,**
 
 ```
 termux-style
 ```
+
+**Select themes and fonts**
+
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img7.png"</p>
 
 **And We're done!**
