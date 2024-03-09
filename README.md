@@ -36,7 +36,7 @@ Save file with " ctrl + x + y " and,
 mkdir -p ~/.termux
 ```
 
-And everything is done.
+Installation is finished.
 
 ## **2. Themes & Fonts**
 
