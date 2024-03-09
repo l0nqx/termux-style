@@ -12,6 +12,8 @@ pkg install zsh git
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+<p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img3.png"</p>
+
 ```
 nano ~/.zshrc
 ```
