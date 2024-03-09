@@ -34,3 +34,6 @@ prompt_context(){ prompt_segment black default your-text }
 mkdir -p ~/.termux
 ```
 
+**2. Themes & Fonts**
+
+
