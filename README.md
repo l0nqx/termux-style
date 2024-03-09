@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img1.png"</p>
 
-**1. Installation**
+## **1. Installation**
 
 ```
 pkg install zsh git
@@ -34,6 +34,7 @@ prompt_context(){ prompt_segment black default your-text }
 mkdir -p ~/.termux
 ```
 
-**2. Themes & Fonts**
+## **2. Themes & Fonts**
 
+First We need to do close termux, and open again.
 
