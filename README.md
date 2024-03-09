@@ -22,6 +22,12 @@ Change it to this **ZSH_THEME="agnoster"**
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img4.png"</p>
 
+Go end & add this,
+
+```
+prompt_context(){ prompt_segment black default your-text }
+```
+
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img5.png"</p>
 
 ```
