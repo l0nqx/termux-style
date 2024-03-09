@@ -36,5 +36,24 @@ mkdir -p ~/.termux
 
 ## **2. Themes & Fonts**
 
-First We need to do close termux, and open again.
+• First, We need to do close termux and open again.
 
+```
+git clone https://github.com/adi1090x/termux-style
+```
+
+```
+cd termux-style
+```
+
+```
+./install
+```
+
+• **Second,**
+
+```
+termux-style
+```
+
+**And We're done!**
