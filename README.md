@@ -4,9 +4,14 @@
 
 **Installation**
 
-> pkg install zsh git
+```
+pkg install zsh git
+```
 
-> sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
-> nano ~/.zshrc
-
+```
+nano ~/.zshrc
+```
