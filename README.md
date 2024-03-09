@@ -30,11 +30,13 @@ prompt_context(){ prompt_segment black default your-text }
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img5.png"</p>
 
-Save file with " ctrl + x + y "
+Save file with " ctrl + x + y " and,
 
 ```
 mkdir -p ~/.termux
 ```
+
+And everything is done.
 
 ## **2. Themes & Fonts**
 
@@ -64,4 +66,4 @@ termux-style
 
 <p align="center"><img src="https://raw.githubusercontent.com/l0nqx/termux-style/main/images/img7.png"</p>
 
-**And We're done!**
+**And We're done! :))**
